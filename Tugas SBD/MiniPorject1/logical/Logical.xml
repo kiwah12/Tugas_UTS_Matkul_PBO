@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="0DF12C21-BE80-B529-2432-3BECF134F32D" mainViewID="92F41660-C4A2-1597-03C9-40A5A198271B">
-<createdBy>MSI THIN 15</createdBy>
-<createdTime>2026-09-09 04:35:20 UTC</createdTime>
-<ownerDesignName>MiniPorject1</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>

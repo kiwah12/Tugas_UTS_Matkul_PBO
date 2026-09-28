@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="D94E6AA7-55E7-F7B4-C80E-4345D3DD5072">
-<createdBy>MSI THIN 15</createdBy>
-<createdTime>2026-09-09 04:35:20 UTC</createdTime>
-<ownerDesignName>MiniPorject1</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</ProcessModel>

@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MiniPorject1" id="48782746-F7EC-EE5D-2D60-263A673F7EA7" version="3.5">
-<createdBy>MSI THIN 15</createdBy>
-<createdTime>2026-09-09 04:35:20 UTC</createdTime>
-<ownerDesignName>MiniPorject1</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>48782746-F7EC-EE5D-2D60-263A673F7EA7</designId>
-</OSDM_Design>
